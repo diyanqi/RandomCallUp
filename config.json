@@ -1,0 +1,8 @@
+﻿{
+	"minnumber": 1,
+	"maxnumber": 50,
+	"loadtime": 0.5,
+	"loaddelta": 0.1,
+	"namelist": "",
+	"colormode":"light" 
+}
